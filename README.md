@@ -319,12 +319,6 @@ See [infrastructure/mlflow_setup.md](infrastructure/mlflow_setup.md) for detaile
 - S3 artifact storage setup
 - Security best practices
 
-## 👥 Team Members
-
-- Team Member 1- Krishna Kiran Sristi
-- Team Member 2- Devika Akula
-- Team Member 3- Narendra Kumar Kottala
-
 
 
 ## 📚 Additional Resources
