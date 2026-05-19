@@ -1,4 +1,4 @@
-# MLOps Team 10 - PRSA Air Quality PM2.5 Prediction
+# MLOps Project - PRSA Air Quality PM2.5 Prediction
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)](https://mlflow.org/)
